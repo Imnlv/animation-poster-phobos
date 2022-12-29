@@ -83,22 +83,22 @@ body, html {
     margin-left: 4.1%;
   }
 
-  @keyframes movecer2 {
+@keyframes movecer2 {
   0% {top: 41%;}
   100% {top: 43%;}
-  }
+}
 
-  @keyframes movecer2_1 {
+@keyframes movecer2_1 {
   0% {top: 40%;}
   100% {top: 46%;}
-  }
+}
 
-  .cer7_3 {
+.cer7_3 {
   margin-left: 6.9%;
   margin-top: .4%;
-  }
+}
 
-  .block9line {
+.block9line {
    width: 64%;
    margin-left: 18%;
 }
@@ -141,7 +141,7 @@ body, html {
  }
  }
 
-  .line2 {
+.line2 {
     width: 11.4%;
     margin-left: 24.9%;
     margin-top: -26%;
@@ -177,7 +177,7 @@ body, html {
     width: 76%;
   }
 
-  .block7line, .block8line {
+.block7line, .block8line {
     width: 54%;
 }
 
@@ -197,22 +197,22 @@ body, html {
     margin-left: 2.9%;
   }
 
-  @keyframes movecer2 {
+@keyframes movecer2 {
   0% {top: 37%;}
   100% {top: 38.5%;}
   }
 
-  @keyframes movecer2_1 {
+@keyframes movecer2_1 {
   0% {top: 37%;}
   100% {top: 40%;}
   }
 
-  .cer7_3 {
+.cer7_3 {
   margin-left: 5%;
   margin-top: .4%;
   }
 
-  .block9line {
+.block9line {
    width: 68%;
    margin-left: 18%;
 }
@@ -291,27 +291,27 @@ body, html {
     margin-left: 42%;
   }
 
-  .cer6_5 {
+ .cer6_5 {
     margin-top: 17%;
     margin-left: 51%;
   }
 
-  @keyframes movecer2 {
+@keyframes movecer2 {
   0% {top: 41%;}
   100% {top: 43%;}
  }
 
-  @keyframes movecer2_1 {
+@keyframes movecer2_1 {
   0% {top: 41%;}
   100% {top: 47%;}
  }
 
-  .lab {
+.lab {
     width: 70%;
   }
 
 
-  .block9line {
+.block9line {
     width: 66%;
     margin-left: 17%;
   }
@@ -332,7 +332,7 @@ body, html {
       border: 0.5vw solid #03FF0D;
     }
 
-  .radar1, .radar2, .radar3 {
+.radar1, .radar2, .radar3 {
     border: 0.3vw solid #03FF0D;
 }
 
@@ -340,7 +340,7 @@ body, html {
     top: -87.5%;
 }
 
-  .hr3, .hr2, .hr1 {
+.hr3, .hr2, .hr1 {
         border: 0.3vw solid #03FF0D;
 }
 
@@ -350,81 +350,82 @@ body, html {
       margin-top: -135%;
     }
 
-  .block0 {
+.block0 {
     width: 100%;
 }
 
-  .box1 {
+.box1 {
     height: 119%;
     width: 100%;
 }
 
- ._cer7, .cer7_2 {
+._cer7, .cer7_2 {
      margin-left: 1.8%;
  }
 
- .cer7_3 {
+.cer7_3 {
      margin-left: 4.5%;
  }
 
- .cer7_0, .cer7_1 {
+.cer7_0, .cer7_1 {
    margin-left: 7.2%;
  }
 
- .cer7_0{
+.cer7_0{
    margin-top: 6%;
  }
 
- .cer7_1{
+.cer7_1{
    margin-top: 17%;
  }
   
-  .ellipse6 {
+.ellipse6 {
     width: 86%;
     margin-left: 10%;
     margin-top: 30%;
    }
 
-  .radar3 {
+ .radar3 {
     margin: -10.4% 0 0 72.3%;
 }
 
-  .line2 {
+ .line2 {
     margin-left: 36.55%;
   }
 
-  ._1column14 {
+ ._1column14 {
     margin-top: 7%;
     margin-left: 26%;
 }
 
-  .block14radar {
+.block14radar {
     width: 63%;
     height: 50%;
     position: absolute;
     margin-left: 1%;
     margin-top: 17%;
-   }
-    .cer6_2 {
+}
+    
+.cer6_2 {
     margin-top: 11%;
     margin-left: 63%;
-    }
+}
 
-    .humanbrain {
+.humanbrain {
     width: 64%;
     top: 6.5%;
     left: 23%;
-    }
+}
 
-  .lab {
+.lab {
     width: 73%;
 }
 
-  .cer3 {
+.cer3 {
     top: 24%;
 }
 
-  .cercile {
+.cercile {
     margin-left: 40%;
     margin-top: -36%;
 }
@@ -442,48 +443,48 @@ body, html {
     left: 2%;
   }
 
-    .block9line {
+.block9line {
        width: 63%;
        margin-left: 21%;
-    }
+}
 
-    .collbs {
+.collbs {
     width: 38%;
     height: 32%;
     top: -8.8%;
     margin-left: 9%;
-    }
+}
 
-  .block7line {
+.block7line {
     height: 127%;
-    }
+}
 
-    .cer6_5 {
+.cer6_5 {
     margin-top: 11%;
     margin-left: 43%;
-    }
+}
 
-   .block14line {
+.block14line {
     width: 104%;
     margin-top: -23%;
-    }
+}
 
-
-    @keyframes movecer2 {
+@keyframes movecer2 {
     0% {top: 37.5%;}
     100% {top: 39%;}
-  }
+}
 
-   @keyframes movecer2_1 {
+@keyframes movecer2_1 {
    0% {top: 37%;}
    100% {top: 41%;}
-  }
+ }
 
-  .block8line {
+.block8line {
     height: 111%;
     margin-top: -8%;
   }
-    .block12pic {
+    
+.block12pic {
     width: 64.5%;
     display: block;
     margin: 10% auto;
@@ -494,11 +495,11 @@ body, html {
     margin-top: 11.4%;
   }
 
-  .hselogo {
+.hselogo {
     width: 60%;
   }
 
-  .backend {
+.backend {
     margin-top: -10.6%;
 }
 
@@ -524,19 +525,19 @@ body, html {
     margin-top: -0.5%;
   }
 
-  .rectangle12 {
+ .rectangle12 {
     margin: 0 0 0 47%;
 }
 
-  .rectangle11 {
+.rectangle11 {
     margin: 0 0 0 44%;
 }
 
-  .rectangle10 {
+.rectangle10 {
     margin: 0 0 0 40%;
 }
 
-  .rectangle9 {
+.rectangle9 {
     width: 0%;
 }
 
@@ -562,11 +563,11 @@ body, html {
     border: 4px solid #03FF0D;
   }
 
-  .box1_1 {
+.box1_1 {
     margin-top: -145.1%;
   }
 
-  .block16 {
+.block16 {
     height: 76%;
   }
 }
@@ -581,7 +582,7 @@ body, html {
   line-height: 238px;
 }
 
-  .bodyall {
+ .bodyall {
     padding-left: 0%;
 }
 
@@ -590,25 +591,25 @@ body, html {
   border: 3px solid #03FF0D;
 }
 
-  .block0 {
+.block0 {
     width: 100%;
 }
 
-  .box1 {
+.box1 {
     width: 100%;
     height: 120%;
 }
 
-  .blockfuter {
+.blockfuter {
     width: 100%;
     margin-top: 11.6%;
 }
 
-  .block14 {
+ .block14 {
     height: 48.3%;
 }
 
-  ._cer7, .cer7_2 {
+._cer7, .cer7_2 {
     margin-left: 1.9%;
 }
 
@@ -783,12 +784,12 @@ body, html {
     line-height: 108px;
   }
 
-    .blockfuter, .block0, .block1, .block2, .block3, .block4, .block5, .block6, .block7, .block8, .block9, .block10, .block11, .block12, .block13, .block14, .block15, .block16, .block17, .block18, .block19 {
+.blockfuter, .block0, .block1, .block2, .block3, .block4, .block5, .block6, .block7, .block8, .block9, .block10, .block11, .block12, .block13, .block14, .block15, .block16, .block17, .block18, .block19 {
     box-sizing: border-box;
     border: 2px solid #03FF0D;
   }
 
-  .radar1, .radar2, .radar3 {
+.radar1, .radar2, .radar3 {
     border: 1.5px solid #03FF0D;
 }
 
@@ -831,8 +832,8 @@ body, html {
   margin-left: 36.3%;
   }
 
-  .block13rec {
-    margin-top: 11%;
+ .block13rec {
+  margin-top: 11%;
 }
 
 .block9line {
@@ -840,10 +841,10 @@ body, html {
   width: 70%;
   }
 
-    .rectangle14, .rectangle15 {
-    height: 7px;
-    border: 1px solid #03FF0D;
-    margin-left: 22%;
+.rectangle14, .rectangle15 {
+   height: 7px;
+   border: 1px solid #03FF0D;
+   margin-left: 22%;
 }
 
 @keyframes strokcer {
@@ -904,8 +905,8 @@ body, html {
   height: 16.95%;
   }
 
-  .block12pic {
-    width: 72%;
+.block12pic {
+  width: 72%;
 }
 
 .blockfuter {
@@ -926,6 +927,8 @@ body, html {
     font-size: 64px;
     line-height: 79px;
   }
+ 
+
   .blockfuter, .block0, .block1, .block2, .block3, .block4, .block5, .block6, .block7, .block8, .block9, .block10, .block11, .block12, .block13, .block14, .block15, .block16, .block17, .block18, .block19 {
     box-sizing: border-box;
     border: 1.5px solid #03FF0D;
@@ -935,9 +938,10 @@ body, html {
     border: 0.4px solid #03FF0D;
   }
 
-    .radar2 {
+  .radar2 {
      margin: 5.2% 9.4% 0 8%;
     }
+
 
   .hr1, .hr2, .hr3 {
     border: 1px solid #00FF0B;
@@ -971,18 +975,18 @@ body, html {
     margin-left: 7.5%;
   }
 
-    @keyframes movecer2 {
+@keyframes movecer2 {
   0% {top: 37%;}
   100% {top: 38.4%;}
-  }
+}
 
-  @keyframes movecer2_1 {
+@keyframes movecer2_1 {
   0% {top: 37%;}
   100% {top: 41%;}
-  }
+}
 
-  .hr1 {
-    margin-top: 10%;
+.hr1 {
+  margin-top: 10%;
 }
 
 .line2 {
